@@ -1,0 +1,13 @@
+{
+  "name": "StockScraper",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cheerio-httpcli": "~0.6.8",
+    "csv": "^1.1.0",
+    "node-csv": "^0.1.2"
+  }
+}
