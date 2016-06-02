@@ -2,7 +2,7 @@ var client = require('cheerio-httpcli');
 var parse = require('csv-parse'); // csvパーサ
 
 // スクレイピング対象
-var stockArray = ["3236-T"];
+var stockArray = [""];
 
 var coopCode = stockArray[0];
 
